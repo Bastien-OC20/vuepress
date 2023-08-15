@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "vuepress",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "admin",
+    "password": "QJ48hzCqr5IEFULDb1PwKwIJdazHo3wI",
+    "database": "db_leeps",
+    "host": "dpg-cjdrsnrbq8nc73btol90-a",
+    "dialect": "postgres"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "vuepress_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "admin",
+    "password": "QJ48hzCqr5IEFULDb1PwKwIJdazHo3wI",
+    "database": "db_leeps_test",
+    "host": "dpg-cjdrsnrbq8nc73btol90-a",
+    "dialect": "postgres"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "vuepress_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "username": "admin",
+    "password": "QJ48hzCqr5IEFULDb1PwKwIJdazHo3wI",
+    "database": "db_leeps_production",
+    "host": "dpg-cjdrsnrbq8nc73btol90-a",
+    "dialect": "postgres"
   }
 }
